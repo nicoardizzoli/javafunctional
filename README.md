@@ -1,8 +1,7 @@
 # Java Functional Course
 
 
-![image](https://user-images.githubusercontent.com/90424996/155741811-3e46f560-6ffd-45d5-88ef-19c012d5a0d8.png)
-
+![image](https://user-images.githubusercontent.com/90424996/157130912-e845795d-f6dd-4d14-93e8-b491eeeb3806.png)
 
 
 ## TOPICS
