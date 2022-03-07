@@ -1,0 +1,21 @@
+
+H
+java:S2201"-The return value of "isPresent" must be used.(”±Œ÷şÿÿÿÿ
+F
+java:S2201"+The return value of "isEmpty" must be used.(¸Öúıÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™¹‹ üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ‘§È
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ‘§È
+E
+java:S2201"*The return value of "orElse" must be used.(ÏÙØêüÿÿÿÿ
+H
+java:S2201"-The return value of "orElseGet" must be used.(¦åÚüıÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¦åÚüıÿÿÿÿ
+E
+java:S2201 "*The return value of "orElse" must be used.(äÖ€ºÿÿÿÿÿ
+E
+java:S2201$"/The return value of "orElseThrow" must be used.(ÚŞÉ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "world" 3 times.(õ‘§È
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄšĞùÿÿÿÿ
